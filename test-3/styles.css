@@ -1,0 +1,90 @@
+#header-nav{
+	background-color:yellow;
+	border:0;
+	border-radius:0;
+	}
+	#logo-img{
+		background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPgTbJuLoxUqAi0NhhsLwz0SdrtI30hjN1c1wSOSE9Ymmg6rONQ) no-repeat ;
+		margin: 10px 15px 10px 0;
+		width: 200px;
+		height: 200px
+	}
+	#H2 {
+		text-align: center;
+		font-size: 1.5em;
+		font-style: italic;
+	}
+	.menu{
+		background-color:#00FF00;
+		margin: 5px;
+		padding:0px;
+		border-color:red;
+		width:auto;
+		height: auto;
+		text-decoration-color: 	#680000 ; 
+	}
+     #H3 {
+		text-align: center;
+		font-size: 1.5em;
+		font-style: italic;
+	}
+	#H4{
+		text-align: center;
+		font-size: 1.5em;
+		font-style: italic;
+	}
+	#H5{
+		text-align: center;
+		font-size: 1.5em;
+		font-style: italic;
+	}
+	.header-nav button.navbar-toggle,.navbar-header .icon-bar{
+		border:1px solid #FF0000;	
+    }
+    @media (max-width: 767px){
+        #header-nav{
+	background-color:yellow;
+	border:0;
+	border-radius:0;
+	height:100px;
+        }
+        <ul>
+    <li>menu</li>
+  <ul>
+		<li >
+			<a href="chilli-potato.html">
+			
+			   CHILLI POTATO
+			</a>
+		</li>
+		<li >
+			<a href="panneer-tikka.html">
+			
+				PANEER TIKKA
+			</a>
+		</li>
+		<li >
+			<a href="momos.html">
+			
+				MOMOS
+			</a>
+		</li> 
+	</ul>
+	</ul>
+            }
+            #nav-list{
+            	margin-top: 15px;
+
+            }
+            #nav-list a{
+            	color: red;
+            text-align: center;
+            }
+            #nav-list a:hover{
+            	background: #E7E7E7;
+            }
+            #nav-list a span{
+            	font-size: 1.8em;
+
+            }
+            
