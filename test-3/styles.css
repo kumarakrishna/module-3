@@ -9,6 +9,25 @@
 		width: 200px;
 		height: 200px
 	}
+	.navbar-brand h1{
+		font-style: italic;
+		color: #0000ff;
+		font-size: 1.5em;
+		text-transform: uppercase;
+		font-weight: bold;
+		margin-top: 0px;
+		line-height: 0.75px;
+		margin-bottom: 30px;
+		text-shadow: 1px 1px 1px #222;
+	}
+	.navbar-brand{
+		padding-top: 20px;
+		padding-bottom: 10px;
+		padding-left: 0px;
+	}
+	.navbar-brand a:hover,.navbar-brand a:focus{
+		text-decoration: none;
+	}
 	#H2 {
 		text-align: center;
 		font-size: 1.5em;
@@ -38,7 +57,7 @@
 		font-size: 1.5em;
 		font-style: italic;
 	}
-	.header-nav button.navbar-toggle,.navbar-header .icon-bar{
+	.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
 		border:1px solid #FF0000;	
     }
     @media (max-width: 767px){
@@ -65,4 +84,12 @@
             	font-size: 1.8em;
 
             }
+            #collapsable-nav{
+            	background-color: #00ccff;
+            }
+            .navbar-header button.navbar-toggle{
+            	clear: both;
+            	margin-top: -38px;
+            }
+
             
