@@ -48,29 +48,7 @@
 	border-radius:0;
 	height:100px;
         }
-        <ul>
-    <li>menu</li>
-  <ul>
-		<li >
-			<a href="chilli-potato.html">
-			
-			   CHILLI POTATO
-			</a>
-		</li>
-		<li >
-			<a href="panneer-tikka.html">
-			
-				PANEER TIKKA
-			</a>
-		</li>
-		<li >
-			<a href="momos.html">
-			
-				MOMOS
-			</a>
-		</li> 
-	</ul>
-	</ul>
+      
             }
             #nav-list{
             	margin-top: 15px;
